@@ -26,6 +26,11 @@
 					"network": "iberian-broad"
 				},
 				{
+					"idString": "1600mm",
+					"name": "Irische Breitspur",
+					"network": "irish-broad"
+				},
+				{
 					"idString": "1520mm",
 					"name": "Russische Breitspur",
 					"network": "russian-broad"
@@ -98,6 +103,12 @@
 					"network": "uk-standard"
 				},
 				{
+					"idString": "IE",
+					"emoji": "🇮🇪",
+					"name": "Irland",
+					"network": "irish-broad"
+				},
+				{
 					"idString": "IT",
 					"emoji": "🇮🇹",
 					"name": "Italien"
@@ -108,6 +119,11 @@
 					"name": "Kanada",
 					"network": "usa-standard"
 				},
+				{
+					"idString": "XK",
+					"emoji": "🇽🇰",
+					"name": "Kosovo"
+				},		
 				{
 					"idString": "HR",
 					"emoji": "🇭🇷",
@@ -154,6 +170,12 @@
 					"idString": "MK",
 					"emoji": "🇲🇰",
 					"name": "Nordmazedonien"
+				},
+				{
+					"idString": "NIR",
+					"emoji": "🇬🇧",
+					"name": "Nordirland (Großbritannien)",
+					"network": "irish-broad"
 				},
 				{
 					"idString": "NO",
@@ -274,6 +296,11 @@
 				{
 					"idString": "Eurotunnel",
 					"name": "Eurotunnel",
+					"forRandomTasks": false
+				},
+				{
+					"idString": "SP-SEETAL",
+					"name": "Sonderprofil Seetal",
 					"forRandomTasks": false
 				}
 			]
